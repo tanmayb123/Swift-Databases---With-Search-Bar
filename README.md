@@ -8,12 +8,11 @@ This version takes the power of the old version, and combines it with newer and 
 
 List of new features:
   - Search Bar
-  - That's it, Tim (more may be coming soon)!
 
 In order to use it:
 
 1. Create the database and table on your website's phpMyAdmin section.
-2. Modify the PHP End from swift databases part 1, to match your database (link: )
+2. Modify the PHP End from swift databases part 1, to match your database (link: https://github.com/tanmayb123/Database-App)
 3. Modify the iOS End from here, to match your PHP and Database.
 4. Done! Try it out, should work. If you have any questions, suggestions etc., just contact me at:
                                                                                         tajymany@gmail.com
